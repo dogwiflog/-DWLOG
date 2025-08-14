@@ -49,7 +49,7 @@ export default function LandingPage() {
             <a href="#community" className="hover:opacity-80">COMMUNITY</a>
           </nav>
           <a
-            href="#buy" // Replace with your Pump.fun link
+            href="https://pump.fun/coin/6fio8yzdrChgGTb54yCNVKoYYRFEzmbCXzdxNcEuc3tk" // Replace with your Pump.fun link
             className="pixel-font text-[10px] sm:text-xs bg-[#22d3ee] text-black px-3 py-2 pixel-btn hover:brightness-110 active:translate-y-[2px]"
           >
             BUY ON PUMP.FUN
@@ -67,11 +67,11 @@ export default function LandingPage() {
             A retro pixel adventure on Solana. No roadmap to nowhere—just a dog, a log, and a community wif impeccable vibes.
           </p>
           <div className="mt-6 flex flex-wrap gap-3">
-            <a href="#buy" className="pixel-font text-[10px] sm:text-xs bg-[#22d3ee] text-black px-4 py-3 pixel-btn hover:brightness-110">INSERT COIN TO BUY</a>
+            <a href="https://pump.fun/coin/6fio8yzdrChgGTb54yCNVKoYYRFEzmbCXzdxNcEuc3tk" className="pixel-font text-[10px] sm:text-xs bg-[#22d3ee] text-black px-4 py-3 pixel-btn hover:brightness-110">INSERT COIN TO BUY</a>
             <a href="#tokenomics" className="pixel-font text-[10px] sm:text-xs bg-[#34d399] text-black px-4 py-3 pixel-btn hover:brightness-110">SEE TOKENOMICS</a>
           </div>
           <div className="mt-6 text-xs pixel-font text-white/70">
-            CA: <span className="px-2 py-1 bg-white/5 rounded">YOUR_TOKEN_ADDRESS_HERE</span> <button onClick={() => navigator.clipboard.writeText('YOUR_TOKEN_ADDRESS_HERE')} className="underline">COPY</button>
+            CA: <span className="px-2 py-1 bg-white/5 rounded">6fio8yzdrChgGTb54yCNVKoYYRFEzmbCXzdxNcEuc3tkv</span> <button onClick={() => navigator.clipboard.writeText('YOUR_TOKEN_ADDRESS_HERE')} className="underline">COPY</button>
           </div>
         </div>
         <div className="order-1 lg:order-2 flex justify-center">
