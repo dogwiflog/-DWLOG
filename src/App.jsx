@@ -48,7 +48,7 @@ export default function LandingPage() {
             <a href="#tokenomics" className="hover:opacity-80">TOKENOMICS</a>
             <a href="#community" className="hover:opacity-80">COMMUNITY</a>
           </nav>
-          <a
+          <a 
             href="https://pump.fun/coin/6fio8yzdrChgGTb54yCNVKoYYRFEzmbCXzdxNcEuc3tk" // Replace with your Pump.fun link
             className="pixel-font text-[10px] sm:text-xs bg-[#22d3ee] text-black px-3 py-2 pixel-btn hover:brightness-110 active:translate-y-[2px]"
           >
